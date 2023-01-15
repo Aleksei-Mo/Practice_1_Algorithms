@@ -1,0 +1,15 @@
+F:\Geekbrains\Algo\P_2\bin\Debug\net7.0\P_2.exe
+F:\Geekbrains\Algo\P_2\bin\Debug\net7.0\P_2.deps.json
+F:\Geekbrains\Algo\P_2\bin\Debug\net7.0\P_2.runtimeconfig.json
+F:\Geekbrains\Algo\P_2\bin\Debug\net7.0\P_2.dll
+F:\Geekbrains\Algo\P_2\bin\Debug\net7.0\P_2.pdb
+F:\Geekbrains\Algo\P_2\obj\Debug\net7.0\P_2.csproj.AssemblyReference.cache
+F:\Geekbrains\Algo\P_2\obj\Debug\net7.0\P_2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Geekbrains\Algo\P_2\obj\Debug\net7.0\P_2.AssemblyInfoInputs.cache
+F:\Geekbrains\Algo\P_2\obj\Debug\net7.0\P_2.AssemblyInfo.cs
+F:\Geekbrains\Algo\P_2\obj\Debug\net7.0\P_2.csproj.CoreCompileInputs.cache
+F:\Geekbrains\Algo\P_2\obj\Debug\net7.0\P_2.dll
+F:\Geekbrains\Algo\P_2\obj\Debug\net7.0\refint\P_2.dll
+F:\Geekbrains\Algo\P_2\obj\Debug\net7.0\P_2.pdb
+F:\Geekbrains\Algo\P_2\obj\Debug\net7.0\P_2.genruntimeconfig.cache
+F:\Geekbrains\Algo\P_2\obj\Debug\net7.0\ref\P_2.dll
